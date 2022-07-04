@@ -15,14 +15,14 @@
   <h1>
     <div class="welcome">
       <picture>
-        <source srcset="svelte-welcome.webp" type="image/webp" />
+        <source srcset="https://news.babsa.org/wp-content/uploads/2022/06/babsa-News-Logo-52px.png" type="image/webp" />
         <img src="svelte-welcome.png" alt="Welcome" />
       </picture>
     </div>
 
     to your new<br />SvelteKit app
   </h1>
-
+<a href="https://news.babsa.org/">Babsa News <img alt="babsa news" src="https://news.babsa.org/wp-content/uploads/2022/06/babsa-News-Logo-52px.png"></a>
   <h2>
     try editing <strong>src/routes/index.svelte</strong>
   </h2>
